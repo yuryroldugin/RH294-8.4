@@ -1,0 +1,5 @@
+[devservers]
+servera.lab.example.com
+
+[devservers:vars]
+ansible_python_interpreter=/usr/bin/python3
